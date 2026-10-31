@@ -19,8 +19,8 @@ export default function AboutPage() {
       </div>
 
       {/* Title */}
-      <div className="px-4 pb-6">
-        <h1 className="text-[32px] font-bold">Informations</h1>
+      <div className="px-4 pt-2 pb-4">
+        <h1 className="text-[28px] font-semibold">Informations</h1>
       </div>
 
       {/* Content */}
